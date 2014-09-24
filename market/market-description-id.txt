@@ -1,0 +1,21 @@
+Dengan aplikasi ini Anda selalu mempunyai SpartanCoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). SpartanCoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+
+FITUR:
+
+• Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
+• Tampilkan saldo dompet dalam SpartanCoin dan mata uang lainnya.
+• Mengirim dan menerima SpartanCoin via NFC, kode-QR atau Tautan SpartanCoin.
+• Buku alamat untuk alamat penggunaan bitcoin secara reguler.
+• Masukkan transaksi saat offline, akan dilaksanakan ketika online.
+• Notifikasi sistem untuk konektivitas SpartanCoin dan menerima koin.
+• Widget Apl untuk saldo SpartanCoin.
+
+Anda dapat mengetahui lebih mengenai SpartanCoin di
+http://bitcoin.org
+
+Jika Anda ingin berkontribusi kepada SpartanCoin Wallet, proyeknya berada di
+https://github.com/schildbach/bitcoin-wallet
+
+Lisensi: GPLv3
+Gunakan dengan resiko Anda!
+http://www.gnu.org/licenses/gpl-3.0.en.html

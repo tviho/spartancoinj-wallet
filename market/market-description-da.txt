@@ -1,0 +1,36 @@
+<b>Hav altid dine SpartanCoins med dig i din lomme!</b> Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. SpartanCoin Wallet er den første mobile SpartanCoin-app, og muligvis også den mest sikre!
+
+
+<b>FUNKTIONER</b>
+
+• Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
+• Visning af SpartanCoin-beløb i BTC, mBTC og µBTC.
+• Konvertering til og fra lokale valutaer.
+• Afsendelse og modtagelse af SpartanCoin via NFC, QR-koder eller SpartanCoin-URLer.
+• Adressebog til ofte brugte SpartanCoin-adresser.
+• Når du er offline, kan du stadig betale via Bluetooth.
+• Systemnotifikation for modtagne mønter.
+• Rydning af papirtegnebøger (fx de der bruges til kold opbevaring).
+• App-widget for SpartanCoin-saldo.
+
+
+<b>BIDRAG</b>
+
+SpartanCoin Wallet er <b>fri software</b> med <b>åben kildekode</b>. Licens: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Vores kildekode er tilgængelig på GitHub:
+https://github.com/schildbach/bitcoin-wallet
+
+Alle oversættelser håndteres via Transifex:
+https://www.transifex.com/projects/p/bitcoin-wallet/
+
+
+<b>ANBEFALINGER</b>
+
+• Mange mobile tegnebøger baserer deres kode på SpartanCoin Wallet. Eksempler: blockchain.info, Hive og KnC.
+• Anbefalet mobil-tegnebog af https://bitcoin.org
+• Anbefalet af BitPay.
+
+
+<i>Brug for egen risiko!</i>

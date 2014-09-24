@@ -1,0 +1,20 @@
+Detta är en fristående SpartanCoin plånbok för Android. Du kan skicka SpartanCoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+
+FUNKTIONER:
+
+• Visa plånbokens värde i SpartanCoins och andra valutor.
+• Skicka och ta emot SpartanCoins via NFC, QR-koder eller en SpartanCoin URL.
+• Adressbok för de SpartanCoin adresser man använder ofta.
+• Påbörja transaktioner medan du är offline, de utförs när du kommer online.
+• Systemnotifikationer när SpartanCoins skickats till dig, och när plånboken kommunicerar med nätverket.
+• App widget som visar plånbokens värde.
+
+Du kan lära dig mer om SpartanCoin genom att besöka
+http://bitcoin.org
+
+Om du vill hjälpa till med utvecklingen av SpartanCoin Wallet så kan du hitta projektet här
+https://github.com/schildbach/bitcoin-wallet
+
+Licens: GPLv3
+Använd på egen risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html
